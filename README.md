@@ -1,2 +1,2 @@
 # ProjetoSistemaEstoque
-Sistema em fase de Cosntrução
+Sistema em fase de Construção
